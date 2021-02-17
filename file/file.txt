@@ -1,0 +1,4 @@
+Sometimes, it is not enough to only display the data on the console. The data to be displayed may be very large, and only a limited amount of data can be displayed on the console, and since the memory is volatile, it is impossible to recover the programmatically generated data again and again.
+However, if we need to do so, we may store it onto the local file system which is volatile and can be accessed every time. Here, comes the need of file handling.
+In this section of the tutorial, we will learn all about file handling in python including, creating a file, opening a file, closing a file, writing and appending the file, etc
+Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.
